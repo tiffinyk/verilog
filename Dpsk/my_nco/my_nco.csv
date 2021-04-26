@@ -1,0 +1,21 @@
+# system info my_nco on 2020.09.30.14:21:14
+system_info:
+name,value
+DEVICE,EP4CE115F29I7
+DEVICE_FAMILY,Cyclone IV E
+GENERATION_ID,1601446857
+#
+#
+# Files generated for my_nco on 2020.09.30.14:21:14
+files:
+filepath,kind,attributes,module,is_top
+simulation/my_nco.v,VERILOG,,my_nco,true
+simulation/submodules/my_nco_nco_ii_0_sin.hex,HEX,,my_nco_nco_ii_0,false
+simulation/submodules/my_nco_nco_ii_0_cos.hex,HEX,,my_nco_nco_ii_0,false
+simulation/submodules/my_nco_nco_ii_0_tb.vhd,OTHER,,my_nco_nco_ii_0,false
+simulation/submodules/my_nco_nco_ii_0.vo,VERILOG,,my_nco_nco_ii_0,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+my_nco.nco_ii_0,my_nco_nco_ii_0

@@ -1,0 +1,22 @@
+Info: Start Nativelink Simulation process
+executing command line: ip-make-simscript --nativelink-mode --output-directory=Dpsk_iputf_input --spd=D:/MINI_FPGA/Dpsk/my_nco/my_nco.spd --spd=D:/MINI_FPGA/Dpsk/my_fir.spd 
+
+========= EDA Simulation Settings =====================
+
+Sim Mode              :  RTL
+Family                :  cycloneive
+Quartus root          :  d:/altera/quartus/bin64/
+Quartus sim root      :  d:/altera/quartus/eda/sim_lib
+Simulation Tool       :  modelsim-altera
+Simulation Language   :  verilog
+Simulation Mode       :  GUI
+Sim Output File       :  
+Sim SDF file          :  
+Sim dir               :  simulation\modelsim
+
+=======================================================
+
+Info: Starting NativeLink simulation with ModelSim-Altera software
+Sourced NativeLink script d:/altera/quartus/common/tcl/internal/nativelink/modelsim.tcl
+Warning: File Dpsk_run_msim_rtl_verilog.do already exists - backing up current file as Dpsk_run_msim_rtl_verilog.do.bak11
+Info: Spawning ModelSim-Altera Simulation software 

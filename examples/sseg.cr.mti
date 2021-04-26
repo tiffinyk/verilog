@@ -1,0 +1,45 @@
+D:/modeltech64_10.5/examples/test.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/test.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module pencode83_test
+
+Top level modules:
+	pencode83_test
+
+} {} {}} D:/modeltech64_10.5/examples/pencode83.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/pencode83.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module pencode83
+
+Top level modules:
+	pencode83
+
+} {} {}} D:/modeltech64_10.5/examples/yxbmq.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/yxbmq.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Arbiter
+-- Compiling module Encoder83
+
+Top level modules:
+	Arbiter
+	Encoder83
+
+} {} {}} D:/modeltech64_10.5/examples/decode_module.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/decode_module.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module decode_module
+
+Top level modules:
+	decode_module
+
+} {} {}} D:/modeltech64_10.5/examples/sseg.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/sseg.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module sseg
+
+Top level modules:
+	sseg
+
+} {} {}} D:/modeltech64_10.5/examples/decode38.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/decode38.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module decode38
+
+Top level modules:
+	decode38
+
+} {} {}}

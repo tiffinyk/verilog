@@ -1,0 +1,445 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MINI_FPGA/Dpsk/simulation/modelsim
+Eauk_dspip_avalon_streaming_controller_hpfir
+Z1 w1601428737
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_controller_hpfir.vhd
+Z6 FD:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_controller_hpfir.vhd
+l0
+L41
+Vdh62na0O7gzQliRHk^Fz60
+!s100 ORMaER9G]`b[YkFGoXo<C3
+Z7 OV;C;10.3d;59
+31
+Z8 !s110 1601455252
+!i10b 1
+Z9 !s108 1601455252.268000
+Z10 !s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_controller_hpfir.vhd|
+Z11 !s107 D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_controller_hpfir.vhd|
+!i113 1
+Z12 o-93 -work my_fir
+Z13 tExplicit 1
+Astruct
+R2
+R3
+R4
+DEx4 work 43 auk_dspip_avalon_streaming_controller_hpfir 0 22 dh62na0O7gzQliRHk^Fz60
+l72
+L64
+Vh`C?jKnZ2mV9BKJQIVa[C0
+!s100 MWO51>Fz`WN=CIY16D1gH2
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eauk_dspip_avalon_streaming_sink_hpfir
+R1
+Z14 DPx9 altera_mf 20 altera_mf_components 0 22 :zX8E]9f?PCk8X:Y[X97:1
+Z15 DPx4 work 24 auk_dspip_math_pkg_hpfir 0 22 M[Jg?eI;`am39ll@ma2kG2
+Z16 DPx4 work 23 auk_dspip_lib_pkg_hpfir 0 22 F@>oBI=ge562JR_OjhD6<0
+Z17 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R0
+Z18 8D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_sink_hpfir.vhd
+Z19 FD:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_sink_hpfir.vhd
+l0
+L56
+VIfZQgE4@n9YYo9e[C:>MA2
+!s100 0WO5KznO2MM4IEKTLL4ea1
+R7
+31
+Z20 !s110 1601455255
+!i10b 1
+Z21 !s108 1601455255.836000
+Z22 !s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_sink_hpfir.vhd|
+Z23 !s107 D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_sink_hpfir.vhd|
+!i113 1
+R12
+R13
+Artl
+R14
+R15
+R16
+R17
+R3
+R4
+DEx4 work 37 auk_dspip_avalon_streaming_sink_hpfir 0 22 IfZQgE4@n9YYo9e[C:>MA2
+l164
+L106
+Vc1`9h_N?6aECHdd0976m82
+!s100 aKlIFR2DezO>78LXQeZZW1
+R7
+31
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R12
+R13
+Eauk_dspip_avalon_streaming_source_hpfir
+R1
+R15
+R14
+R17
+R3
+R4
+R0
+Z24 8D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_source_hpfir.vhd
+Z25 FD:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_source_hpfir.vhd
+l0
+L70
+V;Qc3RnE_9kKObGBi;WdYF2
+!s100 z_E>RhDjTK@iSkAe6<CzM1
+R7
+31
+Z26 !s110 1601455254
+!i10b 1
+Z27 !s108 1601455254.564000
+Z28 !s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_source_hpfir.vhd|
+Z29 !s107 D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_avalon_streaming_source_hpfir.vhd|
+!i113 1
+R12
+R13
+Artl
+R15
+R14
+R17
+R3
+R4
+DEx4 work 39 auk_dspip_avalon_streaming_source_hpfir 0 22 ;Qc3RnE_9kKObGBi;WdYF2
+l190
+L109
+V?^6ND`Y^4DHzfoEboNN5T2
+!s100 9_^:d_>A;JGb2ekO`XAiL1
+R7
+31
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R12
+R13
+Pauk_dspip_lib_pkg_hpfir
+R15
+R17
+R3
+R4
+R1
+R0
+8D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_lib_pkg_hpfir.vhd
+FD:/MINI_FPGA/Dpsk/my_fir/auk_dspip_lib_pkg_hpfir.vhd
+l0
+L22
+VF@>oBI=ge562JR_OjhD6<0
+!s100 f?>LI6^Y:?0:4C>aOS6?X2
+R7
+31
+R26
+!i10b 1
+!s108 1601455254.438000
+!s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_lib_pkg_hpfir.vhd|
+!s107 D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_lib_pkg_hpfir.vhd|
+!i113 1
+R12
+R13
+Pauk_dspip_math_pkg_hpfir
+R17
+R3
+R4
+R1
+R0
+Z30 8D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_math_pkg_hpfir.vhd
+Z31 FD:/MINI_FPGA/Dpsk/my_fir/auk_dspip_math_pkg_hpfir.vhd
+l0
+L54
+VM[Jg?eI;`am39ll@ma2kG2
+!s100 @O6TWU38[<`Y=f_oja2am1
+R7
+31
+b1
+R8
+!i10b 1
+Z32 !s108 1601455252.126000
+Z33 !s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_math_pkg_hpfir.vhd|
+Z34 !s107 D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_math_pkg_hpfir.vhd|
+!i113 1
+R12
+R13
+Bbody
+R15
+R17
+R3
+R4
+l0
+L131
+V7lF^L5^LcIO<7FXRV2m801
+!s100 EDZNSThdcYV1lkL7HbnIz0
+R7
+31
+R8
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R12
+R13
+nbody
+Eauk_dspip_roundsat_hpfir
+R1
+R17
+R3
+R4
+R0
+Z35 8D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_roundsat_hpfir.vhd
+Z36 FD:/MINI_FPGA/Dpsk/my_fir/auk_dspip_roundsat_hpfir.vhd
+l0
+L39
+Vn8i^>9[cfZVhlWHRoNj1k1
+!s100 S`Ha]KjQXV0CDDgljgCX;0
+R7
+31
+R8
+!i10b 1
+Z37 !s108 1601455252.806000
+Z38 !s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_roundsat_hpfir.vhd|
+Z39 !s107 D:/MINI_FPGA/Dpsk/my_fir/auk_dspip_roundsat_hpfir.vhd|
+!i113 1
+R12
+R13
+Abeh
+R17
+R3
+R4
+DEx4 work 24 auk_dspip_roundsat_hpfir 0 22 n8i^>9[cfZVhlWHRoNj1k1
+l66
+L57
+V9YE33QDZj`<N>J;5;moAC2
+!s100 A<UYz`HVQ6@ZJD;RfUBP20
+R7
+31
+R8
+!i10b 1
+R37
+R38
+R39
+!i113 1
+R12
+R13
+Edspba_delay
+R1
+Z40 DPx4 work 21 dspba_library_package 0 22 mHMKFQRl0zR07GJ:^a0Xo1
+R3
+R4
+R0
+Z41 8D:/MINI_FPGA/Dpsk/my_fir/dspba_library.vhd
+Z42 FD:/MINI_FPGA/Dpsk/my_fir/dspba_library.vhd
+l0
+L17
+VGW@n0nGTWkc1V2VczRaoZ3
+!s100 I;H1=zml`_C58M^RQgQ_?1
+R7
+31
+Z43 !s110 1601455253
+!i10b 1
+Z44 !s108 1601455253.927000
+Z45 !s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/dspba_library.vhd|
+Z46 !s107 D:/MINI_FPGA/Dpsk/my_fir/dspba_library.vhd|
+!i113 1
+R12
+R13
+Adelay
+R40
+R3
+R4
+DEx4 work 11 dspba_delay 0 22 GW@n0nGTWkc1V2VczRaoZ3
+l35
+L32
+VPKXhV1`2miHM>A5QSRVN=0
+!s100 242@TKCVL32O<3ldd>9>T2
+R7
+31
+R43
+!i10b 1
+R44
+R45
+R46
+!i113 1
+R12
+R13
+Pdspba_library_package
+R3
+R4
+R1
+R0
+8D:/MINI_FPGA/Dpsk/my_fir/dspba_library_package.vhd
+FD:/MINI_FPGA/Dpsk/my_fir/dspba_library_package.vhd
+l0
+L16
+VmHMKFQRl0zR07GJ:^a0Xo1
+!s100 Bi@XXIh4l[a0:VIDM?Rnd3
+R7
+31
+R8
+!i10b 1
+!s108 1601455251.971000
+!s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/dspba_library_package.vhd|
+!s107 D:/MINI_FPGA/Dpsk/my_fir/dspba_library_package.vhd|
+!i113 1
+R12
+R13
+Emy_fir_0002
+R1
+R3
+R4
+R0
+Z47 8D:/MINI_FPGA/Dpsk/my_fir/my_fir_0002.vhd
+Z48 FD:/MINI_FPGA/Dpsk/my_fir/my_fir_0002.vhd
+l0
+L4
+V9^K0^M7@b2EjEjRUkK1HB0
+!s100 WAdFiiA1SAo;;8ZIDLUhF0
+R7
+31
+R43
+!i10b 1
+Z49 !s108 1601455253.416000
+Z50 !s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/my_fir_0002.vhd|
+Z51 !s107 D:/MINI_FPGA/Dpsk/my_fir/my_fir_0002.vhd|
+!i113 1
+R12
+R13
+Asyn
+R3
+R4
+DEx4 work 11 my_fir_0002 0 22 9^K0^M7@b2EjEjRUkK1HB0
+l38
+L17
+VKi1^05TFomB1nlGn=A`c93
+!s100 G;Q3J`RQX724AGhHbcXO>3
+R7
+31
+R43
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R12
+R13
+Emy_fir_0002_ast
+R1
+R15
+R16
+R17
+R3
+R4
+R0
+Z52 8D:/MINI_FPGA/Dpsk/my_fir/my_fir_0002_ast.vhd
+Z53 FD:/MINI_FPGA/Dpsk/my_fir/my_fir_0002_ast.vhd
+l0
+L22
+V6OFZ9^zBPcNSY55J@m`Dz3
+!s100 ]MV?<0?D:V?PLZaTO7e1L0
+R7
+31
+Z54 !s110 1601455256
+!i10b 1
+Z55 !s108 1601455256.424000
+Z56 !s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/my_fir_0002_ast.vhd|
+Z57 !s107 D:/MINI_FPGA/Dpsk/my_fir/my_fir_0002_ast.vhd|
+!i113 1
+R12
+R13
+Astruct
+R15
+R16
+R17
+R3
+R4
+Z58 DEx4 work 15 my_fir_0002_ast 0 22 6OFZ9^zBPcNSY55J@m`Dz3
+l111
+L66
+Z59 V^U1ziPnG_<3zn7O^5_SJd3
+Z60 !s100 T9FXT8<fB67D9oMYDIack1
+R7
+31
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R12
+R13
+Emy_fir_0002_rtl
+R1
+Z61 DPx3 lpm 14 lpm_components 0 22 4J@JVnz0@^T1iA`f^fRg21
+R14
+R40
+Z62 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R17
+R3
+R4
+R0
+Z63 8D:/MINI_FPGA/Dpsk/my_fir/my_fir_0002_rtl.vhd
+Z64 FD:/MINI_FPGA/Dpsk/my_fir/my_fir_0002_rtl.vhd
+l0
+L34
+VIPmei_0F<F^6hZXT_IC^K1
+!s100 ofFYM`aQeA01[_6^=21T<3
+R7
+31
+R20
+!i10b 1
+Z65 !s108 1601455255.159000
+Z66 !s90 -reportprogress|300|-93|-work|my_fir|D:/MINI_FPGA/Dpsk/my_fir/my_fir_0002_rtl.vhd|
+Z67 !s107 D:/MINI_FPGA/Dpsk/my_fir/my_fir_0002_rtl.vhd|
+!i113 1
+R12
+R13
+Anormal
+R61
+R14
+R40
+R62
+R17
+R3
+R4
+DEx4 work 15 my_fir_0002_rtl 0 22 IPmei_0F<F^6hZXT_IC^K1
+l332
+L47
+VPzBS4ZlUb_7UVR3MmzZWE3
+!s100 U?Gg?=k`8g:<@hK][b:Z81
+R7
+31
+R20
+!i10b 1
+R65
+R66
+R67
+!i113 1
+R12
+R13

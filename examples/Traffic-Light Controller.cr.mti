@@ -1,0 +1,22 @@
+D:/modeltech64_10.5/examples/DFF.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/DFF.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module DFF
+
+Top level modules:
+	DFF
+
+} {} {}} D:/modeltech64_10.5/examples/test_fsm1.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/test_fsm1.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module test_fsm1
+
+Top level modules:
+	test_fsm1
+
+} {} {}} D:/modeltech64_10.5/examples/Traffic_Light.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/Traffic_Light.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Traffic_Light
+
+Top level modules:
+	Traffic_Light
+
+} {} {}}

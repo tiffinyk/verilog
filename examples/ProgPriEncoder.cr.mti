@@ -1,0 +1,36 @@
+D:/modeltech64_10.5/examples/ProgPriArb.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/ProgPriArb.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module ProgPriArb
+
+Top level modules:
+	ProgPriArb
+
+} {} {}} D:/modeltech64_10.5/examples/Enc83.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/Enc83.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Enc83
+
+Top level modules:
+	Enc83
+
+} {} {}} D:/modeltech64_10.5/examples/PriorityEncoder_test.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/PriorityEncoder_test.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module PriorityEncoder83_test
+
+Top level modules:
+	PriorityEncoder83_test
+
+} {} {}} D:/modeltech64_10.5/examples/PriorityEncoder.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/PriorityEncoder.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module PriorityEncoder83
+
+Top level modules:
+	PriorityEncoder83
+
+} {} {}} D:/modeltech64_10.5/examples/ProgPriArb_test.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/ProgPriArb_test.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module ProgPriArb_test
+
+Top level modules:
+	ProgPriArb_test
+
+} {} {}}

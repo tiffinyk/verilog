@@ -1,0 +1,5 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,mult:u2|lpm_mult:lpm_mult_component|mult_t4p:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,mult:u1|lpm_mult:lpm_mult_component|mult_t4p:auto_generated|mac_out2,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,mult:u2|lpm_mult:lpm_mult_component|mult_t4p:auto_generated|mac_mult1,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,mult:u1|lpm_mult:lpm_mult_component|mult_t4p:auto_generated|mac_mult1,

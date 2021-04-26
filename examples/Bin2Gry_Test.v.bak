@@ -1,0 +1,3 @@
+module bin2gry_test;
+  //declare local variables
+  reg [3:0] in ;

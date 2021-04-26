@@ -1,0 +1,8 @@
+D:/modeltech64_10.5/examples/hmsq1.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/hmsq1.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module detect_serial_fsm
+
+Top level modules:
+	detect_serial_fsm
+
+} {} {}}

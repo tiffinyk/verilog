@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MINI_FPGA/Dpsk/simulation/modelsim
+vmy_fir
+Z1 !s110 1601456085
+!i10b 1
+!s100 9]hRQ@7OaA;4`eolR]a4G2
+IfP>`k4NnN^=aEeCKQ<Fhj0
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1601444892
+8D:/MINI_FPGA/Dpsk/my_fir.vo
+FD:/MINI_FPGA/Dpsk/my_fir.vo
+L0 31
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1601456085.726000
+!s107 D:/MINI_FPGA/Dpsk/my_fir.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MINI_FPGA/Dpsk|D:/MINI_FPGA/Dpsk/my_fir.vo|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/MINI_FPGA/Dpsk
+vmy_nco
+R1
+!i10b 1
+!s100 g:^D6dYjd`9`TSh_KzHPW0
+ICXO6hWXn]a4_K`26RDfPe0
+R2
+R0
+w1601446858
+8D:/MINI_FPGA/Dpsk/my_nco/simulation/my_nco.v
+FD:/MINI_FPGA/Dpsk/my_nco/simulation/my_nco.v
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1601456085.624000
+!s107 D:/MINI_FPGA/Dpsk/my_nco/simulation/my_nco.v|
+!s90 -reportprogress|300|D:/MINI_FPGA/Dpsk/my_nco/simulation/my_nco.v|
+!i113 1

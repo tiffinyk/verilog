@@ -1,0 +1,15 @@
+D:/modeltech64_10.5/examples/MulOf3_test.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/MulOf3_test.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module test_multiple_of_3
+
+Top level modules:
+	test_multiple_of_3
+
+} {} {}} D:/modeltech64_10.5/examples/MulOf3.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/MulOf3.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module multiple_of_3
+
+Top level modules:
+	multiple_of_3
+
+} {} {}}

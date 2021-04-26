@@ -1,0 +1,19 @@
+module Dpsk(rst,clk,din,datai,dataq,df);
+	input rst;
+	input clk;
+	input signed[7:0]   din;
+	output signed[27:0] datai;
+	output signed[27:0] dataq;
+	output signed[27:0] df;
+	
+	//实例化NCO核
+	
+	
+	//实例化2个乘法器核
+	
+	
+	//实例化2个低通滤波器核
+	
+	
+	
+endmodule

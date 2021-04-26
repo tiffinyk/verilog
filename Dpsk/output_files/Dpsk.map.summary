@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Sep 30 16:53:41 2020
+Quartus II 64-Bit Version : 15.0.0 Build 145 04/22/2015 SJ Full Version
+Revision Name : Dpsk
+Top-level Entity Name : Dpsk
+Family : Cyclone IV E
+Total logic elements : 2,723
+    Total combinational functions : 1,949
+    Dedicated logic registers : 2,712
+Total registers : 2712
+Total pins : 94
+Total virtual pins : 0
+Total memory bits : 20,480
+Embedded Multiplier 9-bit elements : 4
+Total PLLs : 0

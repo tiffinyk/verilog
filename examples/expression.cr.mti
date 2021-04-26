@@ -1,0 +1,15 @@
+D:/modeltech64_10.5/examples/expression.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/expression.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Expression
+
+Top level modules:
+	Expression
+
+} {} {}} D:/modeltech64_10.5/examples/expression_TB.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/expression_TB.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}

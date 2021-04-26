@@ -1,0 +1,78 @@
+# Reading D:/altera/modelsim_ase/tcl/vsim/pref.tcl
+# do Dpsk_run_msim_rtl_verilog.do
+# if ![file isdirectory Dpsk_iputf_libs] {
+# 	file mkdir Dpsk_iputf_libs
+# }
+# 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet work rtl_work 
+# Copying D:/altera/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:/altera/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+###### Libraries for IPUTF cores 
+# vlib Dpsk_iputf_libs/nco_ii_0
+# ** Warning: (vlib-34) Library already exists at "Dpsk_iputf_libs/nco_ii_0".
+# 
+# vmap nco_ii_0 ./Dpsk_iputf_libs/nco_ii_0
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet nco_ii_0 ./Dpsk_iputf_libs/nco_ii_0 
+# Modifying modelsim.ini
+###### End libraries for IPUTF cores 
+###### MIF file copy and HDL compilation commands for IPUTF cores 
+# 
+# file copy -force D:/MINI_FPGA/Dpsk/my_nco/simulation/submodules/my_nco_nco_ii_0_sin.hex ./
+# file copy -force D:/MINI_FPGA/Dpsk/my_nco/simulation/submodules/my_nco_nco_ii_0_cos.hex ./
+# 
+# vlog "D:/MINI_FPGA/Dpsk/my_nco/simulation/submodules/my_nco_nco_ii_0.vo" -work nco_ii_0
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 16:54:45 on Sep 30,2020
+# vlog -reportprogress 300 D:/MINI_FPGA/Dpsk/my_nco/simulation/submodules/my_nco_nco_ii_0.vo -work nco_ii_0 
+# -- Compiling module my_nco_nco_ii_0
+# 
+# Top level modules:
+# 	my_nco_nco_ii_0
+# End time: 16:54:45 on Sep 30,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog "D:/MINI_FPGA/Dpsk/my_nco/simulation/my_nco.v"                                    
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 16:54:45 on Sep 30,2020
+# vlog -reportprogress 300 D:/MINI_FPGA/Dpsk/my_nco/simulation/my_nco.v 
+# -- Compiling module my_nco
+# 
+# Top level modules:
+# 	my_nco
+# End time: 16:54:45 on Sep 30,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/MINI_FPGA/Dpsk {D:/MINI_FPGA/Dpsk/my_fir.vo}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 16:54:45 on Sep 30,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/MINI_FPGA/Dpsk" D:/MINI_FPGA/Dpsk/my_fir.vo 
+# -- Compiling module my_fir
+# 
+# Top level modules:
+# 	my_fir
+# End time: 16:54:45 on Sep 30,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/MINI_FPGA/Dpsk {D:/MINI_FPGA/Dpsk/Dpsk.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 16:54:45 on Sep 30,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/MINI_FPGA/Dpsk" D:/MINI_FPGA/Dpsk/Dpsk.v 
+# -- Compiling module Dpsk
+# ** Error: D:/MINI_FPGA/Dpsk/Dpsk.v(63): near ")": syntax error, unexpected ')', expecting .* or '.'
+# ** Error: D:/MINI_FPGA/Dpsk/Dpsk.v(76): near ")": syntax error, unexpected ')', expecting .* or '.'
+# End time: 16:54:45 on Sep 30,2020, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: D:/altera/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./Dpsk_run_msim_rtl_verilog.do line 25
+# D:/altera/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+D:/MINI_FPGA/Dpsk {D:/MINI_FPGA/Dpsk/Dpsk.v}"
+# ERROR: No extended dataflow license exists

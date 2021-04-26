@@ -1,0 +1,22 @@
+D:/modeltech64_10.5/examples/Multiple-of-5-bit.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/Multiple-of-5-bit.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Multiple_of_5_bit
+
+Top level modules:
+	Multiple_of_5_bit
+
+} {} {}} D:/modeltech64_10.5/examples/Multiple-of-5.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/Multiple-of-5.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Multiple_of_5
+
+Top level modules:
+	Multiple_of_5
+
+} {} {}} D:/modeltech64_10.5/examples/Multiple-of-5_test.v {1 {vlog -work work -vopt -stats=none D:/modeltech64_10.5/examples/Multiple-of-5_test.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Multiple_of_5_test
+
+Top level modules:
+	Multiple_of_5_test
+
+} {} {}}
